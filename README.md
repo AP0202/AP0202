@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Panchal</h1>
 <h3 align="center">A passionate Engineer with skills in GenAI, AI/ML, Data Engineering</h3>
-<img align="right" alt="coding" width="400" src="https://www.flaticon.com/free-icon/coding_3242257?term=coding&page=1&position=9&origin=search&related_id=3242257"
+<!-- <img align="right" alt="coding" width="400" src="https://www.flaticon.com/free-icon/coding_3242257?term=coding&page=1&position=9&origin=search&related_id=3242257" -->
+<a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by surang - Flaticon</a>
 - 👨‍💻 All of my projects are available at [https://ap0202.github.io/abhishek_portfolio/](https://ap0202.github.io/abhishek_portfolio/)
 
 - 📫 How to reach me **abhishekpanchal35@gmail.com**
